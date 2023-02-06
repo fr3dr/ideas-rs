@@ -10,7 +10,7 @@ pub struct IdeaArgs {
 pub enum EntityType {
     /// List all ideas
     List,
-    
+
     /// Add an idea
     Add(AddCommand),
 
